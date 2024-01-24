@@ -1,4 +1,4 @@
-# Custumer_Churn
+# Telecom_Custumer_Churn
 
 This dataset is perfect for practicing prescriptive analysis such as predictive prescription or predictive decision making. 
 The reason is that the dataset has the attribute of customer value which allows for creating False Positive (FP) and False Negative(FN) costs in case of misclassification.
